@@ -1,6 +1,9 @@
 
 # ☕ Hamada Coffee Shop Management Program (Assembly)
 
+![image](https://github.com/user-attachments/assets/28915bb0-3870-442d-b3fb-fa5ce16c72e3)
+
+
 Welcome to **Hamada Coffee Shop**, a comprehensive program designed to manage a coffee shop's inventory, sales, and stock operations using Assembly language! This project is a demonstration of advanced Assembly coding for managing a real-world use case: a coffee shop. The system allows users to explore inventory, process sales, restock items, and view sales reports—all within an interactive DOS-based interface.
 
 ---
