@@ -114,6 +114,19 @@ When the program starts, the user is greeted with a **Main Menu**. From here, us
 
 ---
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/f367633c-aa7f-4b24-a939-8d59f0b5411d)
+
+![image](https://github.com/user-attachments/assets/82c8c18f-ac4e-45d4-9348-fc690124a14a)
+
+![image](https://github.com/user-attachments/assets/a1a5572d-89da-4b99-a86d-065fca6ef9bf)
+
+![image](https://github.com/user-attachments/assets/c9276b2c-da4a-460a-afd5-6bf988c099b9)
+
+
+
+
 ## 👨‍💻 Authors
 
 - **TP066168**: Mohamed Khairy Mohamed Abdelraouf
